@@ -1,6 +1,5 @@
 # vmmig_bench
 
-**Author**: Eugenio Marzo a.k.a LuckySideburn  
 **Contact**: luckysideburn@gmail[dot]com  
 
 ## Overview
