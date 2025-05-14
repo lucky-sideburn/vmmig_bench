@@ -30,7 +30,8 @@ virtual_machine_status{namespace="migrationlab",status="Running",vm_name="rocky9
 ### Prerequisites
 
 - Go 1.18+ installed
-- Properly configured virtual machine environment
+- Properly configured OCP Virtualization
+- Prometheus & Grafana
 
 ### Starting the Exporter
 
